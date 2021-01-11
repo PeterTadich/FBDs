@@ -1,0 +1,25 @@
+{
+  "name": "fbds",
+  "version": "1.0.0",
+  "description": "Free Body Diagram toolkit",
+  "main": "fbds.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterTadich/FBDs.git"
+  },
+  "author": "Peter Tadich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterTadich/FBDs/issues"
+  },
+  "homepage": "https://github.com/PeterTadich/FBDs#readme",
+  "dependencies": {
+    "elementary-rotations": "git+https://github.com/PeterTadich/elementary-rotations.git",
+    "homogeneous-transformations": "git+https://github.com/PeterTadich/homogeneous-transformations.git",
+    "lu-decomposition": "git+https://github.com/PeterTadich/lu-decomposition.git",
+    "matrix-computations": "git+https://github.com/PeterTadich/matrix-computations.git"
+  }
+}
