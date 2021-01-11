@@ -4,10 +4,10 @@
 
 //ECMAScript module
 
-//import * as hlao from 'matrix-computations';
-//import * as mcht from 'homogeneous-transformations';
-import * as hlao from './modules/hlao.mjs';
-import * as mcht from './modules/mcht.mjs';
+import * as hlao from 'matrix-computations';
+import * as mcht from 'homogeneous-transformations';
+//import * as hlao from './modules/hlao.mjs';
+//import * as mcht from './modules/mcht.mjs';
 
 import * as vectors from './vectors.mjs';
 import * as kinematics from './kinematics.mjs';

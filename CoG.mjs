@@ -6,10 +6,10 @@
 
 //CoG (Centre of Gravity)
 
-//import * as hlao from 'matrix-computations';
-//import * as mcht from 'homogeneous-transformations';
-import * as hlao from './modules/hlao.mjs';
-import * as mcht from './modules/mcht.mjs';
+import * as hlao from 'matrix-computations';
+import * as mcht from 'homogeneous-transformations';
+//import * as hlao from './modules/hlao.mjs';
+//import * as mcht from './modules/mcht.mjs';
 
 import * as config from './config.mjs';
 import * as vectors from './vectors.mjs';

@@ -19,10 +19,10 @@
 
 //ECMAScript module
 
-//import * as hlao from 'matrix-computations';
-//import * as mcht from 'homogeneous-transformations';
-import * as hlao from './modules/hlao.mjs';
-import * as mcht from './modules/mcht.mjs';
+import * as hlao from 'matrix-computations';
+import * as mcht from 'homogeneous-transformations';
+//import * as hlao from './modules/hlao.mjs';
+//import * as mcht from './modules/mcht.mjs';
 import * as geom from './geometry.mjs';
 import * as cam from './camera.mjs';
 
