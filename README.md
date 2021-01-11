@@ -52,8 +52,8 @@ import * as vectors from './vectors.mjs';
 Copy the following code to index.mjs
 
 ```js
-import * as kinematics from './kinematics.mjs';
-import * as vectors from './vectors.mjs';
+import * as kinematics from 'fbds/kinematics.mjs';
+import * as vectors from 'fbds/vectors.mjs';
 
 //Tesing 'kinematics':
 //   - create the inertial ref. frame
