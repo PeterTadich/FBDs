@@ -29,7 +29,14 @@ No installation required for the Google Chrome Web browser.
 ### Node.js
 
 ```js
-import * as FBDs from 'FBDs';
+import * as camera from 'fbds/camera.mjs';
+import * as centroids from 'fbds/centroids.mjs';
+import * as CoG from 'fbds/CoG.mjs';
+import * as config from 'fbds/config.mjs';
+import * as geometry from 'fbds/geometry.mjs';
+import * as geometryCanvas from 'fbds/geometryCanvas.mjs';
+import * as kinematics from 'fbds/kinematics.mjs';
+import * as vectors from 'fbds/vectors.mjs';
 ```
 
 ### Google Chrome Web browser
